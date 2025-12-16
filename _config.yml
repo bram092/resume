@@ -66,16 +66,16 @@ disqus-shortname: "bram092.github.io"
 
 events:
   - image: "/img/timeline/NIOO_logo.png"
-    date: "Januari 2026 - Today"
+    date: "01-2026 - Today"
     description: "Data specialist at NIOO"
   - image: "/img/timeline/NIOO_logo.png"
-    date: "September 2025 - December 2025"
+    date: "09-2025 - 12-2025"
     description: "Research assistant data at NIOO"
   - image: "/img/timeline/WUR_logo.png"
-    date: "September 2022 - July 2025"
+    date: "2022 - 2025"
     description: "Master Biology: Ecology & Evolution"
   - image: "/img/timeline/WUR_logo.png"
-    date: "September 2018 - July 2022"
+    date: "2018 - 2022"
     description: "Bachelor Plant Sciences: Phylogenetics & Evolution"
 
 # First image of the Timeline
