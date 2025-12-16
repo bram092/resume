@@ -123,7 +123,7 @@ social:
 # Sections shown in the index page
 pages_list:
   About: "about"
-  Posts: "latest-post"
+  Updates: "latest-post"
   Timeline: "timeline"
   Contact: "contact"
 # Exclusion list from the generated _site
